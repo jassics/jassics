@@ -1,4 +1,6 @@
-### Hi there, I am <a href="http://www.sanjeevjaiswal.com/">Sanjeev Jaiswal </a> 👋
+# Hi 👋, I am <a href="http://www.sanjeevjaiswal.com/">Sanjeev Jaiswal </a> 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/jassics?style=for-the-badge)
 
 - 🔭 I’m currently working on AWS Security and its automation project using Python 3
 - 🌱 I’m currently learning Container Security, IaC and DevSecOps for Cloud
