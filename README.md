@@ -2,6 +2,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/jassics" target="blank"><img src="https://img.shields.io/twitter/follow/jassics?logo=twitter&style=for-the-badge" alt="jassics" /></a> </p>
+<a href="https://www.youtube.com/channel/UCTe6YBI48nDIrq13-9xPmAA" target="blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCTe6YBI48nDIrq13-9xPmAA?logo=youtube&style=for-the-badge" alt="Flexmind"></a>
 
 - 🔭 I’m currently working on AWS Security and its automation project using Python 3
 - 🌱 I’m currently learning Container Security, IaC and DevSecOps for Cloud
